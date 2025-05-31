@@ -1,5 +1,2 @@
-bin/
-.vscode/
-.vs/
 *.exe
 *.o
