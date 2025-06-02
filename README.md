@@ -2,7 +2,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SFML-2.5.1-green?style=for-the-badge&logo=sfml&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP%2FIP-004d99?style=for-the-badge&logo=protocols&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-Suportado-blue?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Cliente--Servidor-Model-yellow?style=for-the-badge" />
 </p>
 
